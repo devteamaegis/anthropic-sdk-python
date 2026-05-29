@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.105.3 (2026-05-29)
+
+Full Changelog: [v0.105.2...v0.105.3](https://github.com/anthropics/anthropic-sdk-python/compare/v0.105.2...v0.105.3)
+
+### Chores
+
+* **internal:** update private repo name ([6a84ccb](https://github.com/anthropics/anthropic-sdk-python/commit/6a84ccb7cd5ef937cfed3169242f7cb02d508430))
+
 ## 0.105.2 (2026-05-29)
 
 Full Changelog: [v0.105.1...v0.105.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.105.1...v0.105.2)
